@@ -1,0 +1,6 @@
+echo "# MEHN_CRUD_Employees2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin17 https://github.com/pradeepdevloper1/MEHN_CRUD_Employees2.git
+git push -u origin17 master
